@@ -14,7 +14,7 @@ public class Main {
         bst.add(7);
         bst.add(11);
 
-        Iterator<BSTNode> i = bst.iterator();
+        Iterator<BSTNode> i = bst.postOrdIterator();
 
         while (i.hasNext())
             System.out.println(i.next().key);
