@@ -13,7 +13,7 @@ Methods available:
 
 | Method Name |                                                                 |
 | ----------- | --------------------------------------------------------------- |
-| `GetRoot`   | Returns the root node of the tree.                              |
+| `getRoot`   | Returns the root node of the tree.                              |
 | `size`      | Returns the size of the tree.                                   |
 | `height`    | Returns the height of the tree.                                 |
 | `remove`    | Removes a specific node from the tree                           |
