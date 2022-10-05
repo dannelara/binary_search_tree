@@ -25,3 +25,22 @@ Methods available:
 | `InOrderIterator`   | Traverse the tree in order traversal.     |
 | `preOrderIterator`  | Traverse the node in preorder traversal.  |
 | `PostOrderIterator` | Traverse the tree in postorder traversal. |
+
+### Example use:
+
+```Java
+    Binary_search_tree bst = new Binary_search_tree();
+
+        bst.add(4);
+        bst.add(2);
+        bst.add(6);
+        bst.add(5);
+        bst.add(9);
+        bst.add(7);
+        bst.add(11);
+
+        Iterator<BSTNode> i = bst.iterator();
+
+        while (i.hasNext())
+            System.out.println(i.next().key);
+```
