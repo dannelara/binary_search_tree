@@ -5,7 +5,8 @@ This project is just a simple implementation of a binary search tree.
 My implementation of a binary search tree impelements a couple of iterators to iterate the tree in pre-, post- and in- order traversal.
 
 ```
-Note! In order to impelement these iterators a queue was impemented for the simple reason that a binary search tree node doesn't know about it's parent.
+Note! In order to impelement these iterators a queue was impemented-
+for the simple reason that a binary search tree node doesn't know about it's parent.
 ```
 
 Methods available:
