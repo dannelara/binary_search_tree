@@ -6,7 +6,7 @@ My implementation of a binary search tree impelements a couple of iterators to i
 
 ```
 Note! In order to impelement these iterators a queue was impemented since
-a binary search tree node doesn't know about it's parent.
+a binary search tree node doesn't know about their parent nodes.
 ```
 
 Methods available:
