@@ -19,7 +19,7 @@ Methods available:
 | `remove`    | Removes a sspecific node from the tree                         |
 | `removeKth` | R removes the kth largest node from the tree.                  |
 | `contains`  | Returns the size of the tree.                                  |
-| `size`      | Rreturns true / false if node exists/doesnt exist in the tree. |
+| `contains`  | Rreturns true / false if node exists/doesnt exist in the tree. |
 
 | Iterators           |                                           |
 | ------------------- | ----------------------------------------- |
