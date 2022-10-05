@@ -11,14 +11,14 @@ a binary search tree node doesn't know about their parent nodes.
 
 Methods available:
 
-| Method Name |                                                                |
-| ----------- | -------------------------------------------------------------- |
-| `GetRoot`   | Returns the root node of the tree.                             |
-| `size`      | Returns the size of the tree.                                  |
-| `height`    | Returns the height of the tree;                                |
-| `remove`    | Removes a sspecific node from the tree                         |
-| `removeKth` | R removes the kth largest node from the tree.                  |
-| `contains`  | Rreturns true / false if node exists/doesnt exist in the tree. |
+| Method Name |                                                                 |
+| ----------- | --------------------------------------------------------------- |
+| `GetRoot`   | Returns the root node of the tree.                              |
+| `size`      | Returns the size of the tree.                                   |
+| `height`    | Returns the height of the tree.                                 |
+| `remove`    | Removes a specific node from the tree                           |
+| `removeKth` | Removes the kth largest node from the tree.                     |
+| `contains`  | Rreturns true / false if node exists/doesn't exist in the tree. |
 
 | Iterators           |                                           |
 | ------------------- | ----------------------------------------- |
